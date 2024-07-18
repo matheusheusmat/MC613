@@ -27,7 +27,7 @@ Exercises related to MC613 subject from Universidade Estadual de Campinas, compu
 <li> lab05 - VGA (Video Graphics Array) (*)</li>
 <li> lab06 - Pong game implementation (*)</li>
 <li> lab07 - Capturing and displaying images using a camera (*)</li>
-<li> Projeto - Paint on the FPGA (*)</li>
+<li> Project - Paint on the FPGA (*)</li>
 </ul>
 <b>Note: Labs marked with (*) were develop to run on the DE1-SoC FPGA, generation Cyclone V. In order to compile, assemble and upload the code on the FPGA, Intel Quartus Prime (v. 17.1) is needed.</b>
 </p>
