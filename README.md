@@ -17,7 +17,7 @@ Exercícios relacionados à matéria MC613 da Universidade Estadual de Campinas,
 
 # (EN) MC613 - Digital circuits development
 <p>
-Exercises related to MC613 subject from Universidade Estadual de Campinas, computer engineering course, made during the first semester of 2024. Developed in Verilog HDL language. The exercises were made in group by Matheus Ponte (owner of this repository), Caio Porto and Vinicius Leme Concepts worked in each 'lab':<br>
+Exercises related to MC613 subject from Universidade Estadual de Campinas, computer engineering course, made during the first semester of 2024. Developed in Verilog HDL language. The exercises were made in group by Matheus Ponte (owner of this repository), Caio Porto and Vinicius Leme. Concepts worked in each 'lab':<br>
 <ul>
 <li> lab01 - 4-bit adder</li>
 <li> lab02a - Parity bit</li>
